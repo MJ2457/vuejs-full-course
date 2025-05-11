@@ -2,7 +2,7 @@
 
 <template>
   <header>
-    <h1 class="text-gradient">PROGRAM</h1>
+    <h1 class="text-gradient">PULLGRAM</h1>
   </header>
   <main>
     <slot />
